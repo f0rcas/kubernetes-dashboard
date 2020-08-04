@@ -21,7 +21,6 @@ spec:
           serviceName: kubernetes-dashboard
           servicePort: 443
         path: /
-        pathType: ImplementationSpecific
   tls:
   - hosts:
     - 10.54.0.36.nons.in
